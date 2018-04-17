@@ -1,0 +1,6 @@
+framework module Pods_rpalkar04 {
+  umbrella header "Pods-rpalkar04-umbrella.h"
+
+  export *
+  module * { export * }
+}
