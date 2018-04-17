@@ -19,7 +19,10 @@ This repository contains all iOS programming labs which includes iOS application
 <img width="254" alt="screen shot 2018-03-21 at 4 35 52 am" src="https://user-images.githubusercontent.com/31785416/37700351-8bbc691c-2cc1-11e8-84c7-5d5551669cb1.png">
 
 ## Firebase Login Authentication (Users,Likes,Dislikes,Comments,Profile picture)
-<img width="1280" alt="firebase" src="https://user-images.githubusercontent.com/31785416/38845426-626feffc-41c5-11e8-819b-69e2ebd8fa13.png">
+<img width="262" alt="screen shot 2018-04-16 at 10 30 02 pm" src="https://user-images.githubusercontent.com/31785416/38845570-09c4917c-41c6-11e8-8803-82fcd65b6803.png">
+
+<img width="748" alt="screen shot 2018-04-16 at 10 31 10 pm" src="https://user-images.githubusercontent.com/31785416/38845576-122d7dba-41c6-11e8-99f2-418813fb2376.png">
+
 
 
 
